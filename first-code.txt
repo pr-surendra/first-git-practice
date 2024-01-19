@@ -1,3 +1,4 @@
 Hello surendra !!!@
 take inmput from user 
 and add value
+submmit data to data base
